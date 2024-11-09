@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Number{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(system.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa un numero: ");
         int n =scanner.nextInt();
         printNumber(n);
